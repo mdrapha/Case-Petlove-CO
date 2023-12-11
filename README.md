@@ -1,5 +1,5 @@
 # Case para área de Dados - Petlove&Co
-
+![png](./src/imgs/capa.png)
 ## Organização do projeto
     
 - `src/` : Pasta com os dados produzidos e utilizados no projeto.
